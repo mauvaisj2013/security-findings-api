@@ -280,7 +280,7 @@ The Flask development server is intended for local testing only.
 | Single API route supporting GET and POST | `/api/v1/results` |
 | JSON DTO with four required fields | `name`, `type`, `description`, `date` |
 | GET returns findings in `{"results": [...]}` | Implemented |
-| Initial collection contains at least 10 objects | Populate `results.json` with 10 or more findings before submission |
+| Initial collection contains at least 10 objects | Implemented |
 | POST supports one or multiple objects | Implemented |
 | CLI invokes GET and POST | Implemented |
 | CLI sorts GET results by descending date | Implemented |
