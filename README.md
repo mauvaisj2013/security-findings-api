@@ -47,7 +47,7 @@ security-findings-api/
 ### Step 1: Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mauvaisj2013/security-findings-api.git
 cd security-findings-api
 ```
 
